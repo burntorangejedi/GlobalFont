@@ -1,0 +1,9 @@
+## Interface: 110002
+## Title: GlobalFont
+## Notes: Simple addon to change the global system font for all WoW UI elements
+## Author: YourName
+## Version: 1.0.0
+## SavedVariables: GlobalFontDB
+## OptionalDeps: LibSharedMedia-3.0
+
+GlobalFont.lua
