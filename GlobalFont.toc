@@ -2,7 +2,7 @@
 ## Title: GlobalFont
 ## Notes: Simple addon to change the global system font for all WoW UI elements
 ## Author: BurntOrangeJedi
-## Version: 1.0.0
+## Version: 1.0.1
 ## SavedVariables: GlobalFontDB
 ## OptionalDeps: LibSharedMedia-3.0
 ## X-Curse-Project-ID: 1414565

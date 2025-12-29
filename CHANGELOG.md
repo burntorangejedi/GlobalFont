@@ -15,11 +15,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Export/Import font settings
 - Favorite fonts feature
 
+## [1.0.1] - 2025-12-28
+
 ### Added
 - CurseForge project integration (ID: 1414565)
 - Available for download on CurseForge
 - Wago.io project integration (ID: j6jz1W6R)
 - Available for download on Wago.io
+- Testing auto-release publishing from github
 
 ## [1.0.0] - 2025-12-27
 
