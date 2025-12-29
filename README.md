@@ -21,14 +21,14 @@ A simple, lightweight World of Warcraft addon that does one thing and does it we
    - **Mac**: `/Applications/World of Warcraft/_retail_/Interface/AddOns/`
 4. Restart World of Warcraft or reload your UI (`/reload`)
 
-### CurseForge Installation (Coming Soon)
+### CurseForge Installation
 
-1. Install via the CurseForge app
+1. Install via the CurseForge app or download from [CurseForge](https://www.curseforge.com/wow/addons/globalfont)
 2. The addon will be automatically placed in the correct directory
 
-### Wago.io Installation (Coming Soon)
+### Wago.io Installation
 
-1. Install via the Wago app
+1. Install via the Wago app or download from [Wago.io](https://addons.wago.io/addons/j6jz1W6R)
 2. The addon will be automatically placed in the correct directory
 
 ## Usage
@@ -79,7 +79,7 @@ A: Currently only tested and supported for Retail. Classic versions may be added
 ## Support
 
 If you encounter any issues or have feature requests:
-- Open an issue on [GitHub](https://github.com/yourusername/GlobalFont)
+- Open an issue on [GitHub](https://github.com/burntorangejedi/GlobalFont)
 - Report bugs with as much detail as possible (error messages, steps to reproduce, etc.)
 
 ## License
